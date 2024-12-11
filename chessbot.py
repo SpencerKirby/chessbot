@@ -1,6 +1,5 @@
 """
 Spencer Kirby
-help from Owen Reaser on using torch and tensor
 machine learning neural network that learns of chess Very slow not optimized well 
 absolutly horrible at chess 
 4/25/24 
